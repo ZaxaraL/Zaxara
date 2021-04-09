@@ -1,0 +1,81 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+<!DOCTYPE html> 
+<html>
+    <head>
+<meta charset="utf-8">
+<meta name="viweport" content="width=device-width, initial-scale1">
+<title>zaxaras firt Website</title>
+    
+    </head>
+    <body>
+       <h1>Zaxaras First Website</h1>
+       <h2>Asworebs</h2>
+       <h3>Asworebs</h3>
+       <h4>Asworebs</h4>
+       <h5>Asworebs</h5>
+       <h6>Asworebs</h6>
+       
+        
+       Zaxara test <b>vnaxot vxnaot<b></b>
+  
+       <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eu gravida nulla. Sed accumsan lectus sit amet ipsum faucibus luctus. Aenean posuere elit id risus ullamcorper consectetur. Quisque ornare faucibus nisl, a cursus sapien. Donec bibendum erat sed porta ullamcorper. Phasellus venenatis justo ac fringilla euismod. Ut aliquet mi vel velit accumsan, pretium ullamcorper lectus congue. Morbi vehicula, nibh bibendum mollis laoreet, nisl augue sagittis quam, ac dictum erat odio eu nisl. Curabitur scelerisque, velit vitae ultricies condimentum, urna urna commodo libero, ut aliquet odio eros nec mi. Aenean aliquet, eros ac sagittis facilisis, nisi arcu pretium enim, vitae lobortis enim metus sed massa.
+       </p>
+       <p>
+        Duis faucibus mi ligula, et molestie lorem vehicula a. Quisque et efficitur est, vel eleifend est. Praesent lectus enim, commodo non malesuada a, tincidunt posuere nulla. Nam eget fermentum mi, quis convallis elit. Donec vitae augue et dui imperdiet aliquet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque tempus tortor in venenatis ultrices. Etiam sapien ligula, ultrices quis neque eu, fringilla finibus augue. Duis bibendum, tortor at lacinia suscipit, felis nunc pulvinar dolor, viverra mattis elit diam non dolor. Etiam posuere tortor at varius tempor. Morbi erat eros, tristique nec tellus et, pharetra efficitur ipsum. Nullam eget dapibus libero, ac finibus libero. Phasellus in mollis mi, ut malesuada neque. Nulla condimentum facilisis ex, nec dictum massa semper id
+       </p>
+
+       Zaxara<br> <i>Midis stadionze</i><br><br><br><br>
+       <u>UNDERLINE</u> 
+       <br><strong>storng tag same bolt tag</strong><br>
+       <hr>RULE lane aris es anu xazi,<br>
+        <a href="https://www.google.com">dasalimki</a><br>
+        <a href="https://www.google.com" target="_blank">axali tab</a>
+        ><br><img src="116879173_1262632204083392_1759130010810286081_n.jpg" border="10"> 
+        <ul>
+            <li>List
+                <ul>
+                    <li><a href="https://minecraft.fandom.com/wiki/Golden_Apple" target="_blank">Golden apple</a></li>
+                </ul>
+            </li>
+            <li>Zaxara</li>
+            <li>yaya</li>
+            <li>niqo</li>
+            <li>Gio</li>
+        </ul>
+        <ol>
+            <li>rixvebit</li>
+            <li>lel</li>
+        </ol>
+        <table border="10" cellpadding="12">
+            <tr>
+                <th>tve</th>
+                <th colspan="2">qira </th>
+                <th><i>gaseirnebaაა</i></th>
+                <tr>
+                    <td>ivnisi</td>
+                    <td>1100GEL</td>
+                    <td>1233GEL</td>
+                    <td>37GEL</td>
+                    <tr>
+                        <td>ivlisi</td>
+                        <td>1120GEL</td>
+                        <td>1250GEL</td>
+                        <td>39GEL</td>
+                        <tr>
+                            <td>agvisto</td>
+                            <td>1300GEL</td>
+                            <td>1240GEL</td>
+                            <td>37GEL</td>
+                </tr>
+            </tr>
+        </table>
+
+    </body>
+</html>
+
+
+
+
+
